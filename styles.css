@@ -1,0 +1,12 @@
+.que.mcsaon .answer .specificfeedback {
+    padding: 0 0.7em;
+    background: #FFF3BF;
+}
+.que.mcsaon .answer .specificfeedback * {
+    display: inline;
+    background: #FFF3BF;
+}
+.que.mcsaon .answer div.r0,
+.que.mcsaon .answer div.r1 {
+    padding: 0.3em;
+}
