@@ -24,6 +24,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'qtype_mcsaon';
-$plugin->version   = 2012090400;
-$plugin->requires  = 2012061700;
+$plugin->release   = '1.0.0';
+$plugin->version   = 2012091800;
+$plugin->requires  = 2011070100;
+$plugin->dependencies  = array('qtype_multichoice' => 2011070100);
 $plugin->maturity  = MATURITY_STABLE;
